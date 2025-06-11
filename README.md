@@ -1,6 +1,7 @@
 # Awesome-Human-Motion-Generation
 [Single-Person Motion Generation](#motion-generation)
 [Multi-Person Interaction Generation](#hhi) 
+
 For more details on the research related to Human-Object Interaction, Human-Scene Interaction, and Human-Human Interaction, see https://github.com/Foruck/Awesome-Human-Motion.
 
 <span id="motion-generation"></span>
