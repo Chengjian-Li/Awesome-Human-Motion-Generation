@@ -94,7 +94,7 @@ For more details on the research related to Human-Object Interaction, Human-Scen
         <li><b>(WACV 2025)</b> <a href="https://motion-rag.github.io/">MoRAG</a>: Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al.</li>
         <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2409.11920">Mandelli et al</a>: Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al.</li>
     </ul></details>
-    <details>
+    <details open>
     <summary><h3>2024</h3></summary>
         <ul style="margin-left: 5px;">
         <li><b>(ArXiv 2024)</b> <a href="https://xiangyue-zhang.github.io/SemTalk">SemTalk</a>: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.</li>
@@ -209,7 +209,7 @@ For more details on the research related to Human-Object Interaction, Human-Scen
         <li><b>(TPAMI 2024)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10399852">GUESS</a>: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation, Gao et al.</li>
         <li><b>(WACV 2024)</b> <a href="https://arxiv.org/pdf/2312.12917">Xie et al.</a>: Sign Language Production with Latent Motion Transformer, Xie et al.</li>
     </ul></details>
-    <details>
+    <details open>
     <summary><h3>2023</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(NeurIPS 2023)</b> <a href="https://github.com/jpthu17/GraphMotion">GraphMotion</a>: Act As You Wish: Fine-grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs, Jin et al.</li>
@@ -248,7 +248,7 @@ For more details on the research related to Human-Object Interaction, Human-Scen
         <li><b>(ArXiv 2023)</b> <a href="https://zixiangzhou916.github.io/UDE-2/">UDE-2</a>: A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis, Zhou et al.</li>
         <li><b>(ArXiv 2023)</b> <a href="https://pjyazdian.github.io/MotionScript/">Motion Script</a>: Natural Language Descriptions for Expressive 3D Human Motions, Yazdian et al.</li>
     </ul></details>
-    <details>
+    <details open>
     <summary><h3>2022 and earlier</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(NeurIPS 2022)</b> <a href="https://github.com/c-he/NeMF">NeMF</a>: Neural Motion Fields for Kinematic Animation, He et al.</li>
